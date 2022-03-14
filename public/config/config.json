@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa2840Fd92Af9c69a1b00A745998788cC31e90063",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa2840fd92af9c69a1b00a745998788cc31e90063",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet ",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Meta Emj NFT",
+  "SYMBOL": "EMJNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/meta-emoji1",
+  "SHOW_BACKGROUND": true
+}
